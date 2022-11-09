@@ -109,96 +109,14 @@ display: table;
 clear: both;
 }
 
-.bind {
+.mapscontent {
     width: 90%;
     margin: 5px;
     margin-left: 50px;
     margin-bottom: 20px;
     border-radius: 10px;
     font-size: 25px;
-    background-image: url(https://static.wikia.nocookie.net/valorant/images/2/23/Loading_Screen_Bind.png/revision/latest?cb=20200620202316);
-    background-attachment: fixed;
-    background-repeat: no-repeat;
-    background-size: cover;
-}
-
-.haven {
-    width: 90%;
-    margin: 5px;
-    margin-left: 50px;
-    margin-bottom: 20px;
-    border-radius: 10px;
-    font-size: 25px;
-    background-image: url(https://static.wikia.nocookie.net/valorant/images/7/70/Loading_Screen_Haven.png/revision/latest?cb=20200620202335);
-    background-attachment: fixed;
-    background-repeat: no-repeat;
-    background-size: cover;
-}
-
-.ascent {
-    width: 90%;
-    margin: 5px;
-    margin-left: 50px;
-    margin-bottom: 20px;
-    border-radius: 10px;
-    font-size: 25px;
-    background-image: url(https://static.wikia.nocookie.net/valorant/images/e/e7/Loading_Screen_Ascent.png/revision/latest?cb=20200607180020);
-    background-attachment: fixed;
-    background-repeat: no-repeat;
-    background-size: cover;
-    }
-
-.breeze {
-    width: 90%;
-    margin: 5px;
-    margin-left: 50px;
-    margin-bottom: 20px;
-    border-radius: 10px;
-    font-size: 25px;
-    background-image: url(https://static.wikia.nocookie.net/valorant/images/1/10/Loading_Screen_Breeze.png/revision/latest?cb=20210427160616);
-    background-attachment: fixed;
-    background-repeat: no-repeat;
-    background-size: cover;
-}
-
-.fracture {
-    width: 90%;
-    margin: 5px;
-    margin-left: 50px;
-    margin-bottom: 20px;
-    border-radius: 10px;
-    font-size: 25px;
-    background-image: url(https://static.wikia.nocookie.net/valorant/images/f/fc/Loading_Screen_Fracture.png/revision/latest?cb=20210908143656);
-    background-attachment: fixed;
-    background-repeat: no-repeat;
-    background-size: cover;
-}
-
-.icebox {
-    width: 90%;
-    margin: 5px;
-    margin-left: 50px;
-    margin-bottom: 20px;
-    border-radius: 10px;
-    font-size: 25px;
-    background-image: url(https://static.wikia.nocookie.net/valorant/images/1/13/Loading_Screen_Icebox.png/revision/latest?cb=20201015084446);
-    background-attachment: fixed;
-    background-repeat: no-repeat;
-    background-size: cover;
-}
-
-.split {
-    width: 90%;
-    margin: 5px;
-    margin-left: 50px;
-    margin-bottom: 20px;
-    border-radius: 10px;
-    font-size: 25px;
-    background-image: url(https://static.wikia.nocookie.net/valorant/images/d/d6/Loading_Screen_Split.png/revision/latest?cb=20200620202349);
-    background-attachment: fixed;
-    background-repeat: no-repeat;
-    background-size: cover;
-}
+    background-color: rgba(98, 98, 98, 0.8);
 
 .weaponscontent {
     width: 90%;
